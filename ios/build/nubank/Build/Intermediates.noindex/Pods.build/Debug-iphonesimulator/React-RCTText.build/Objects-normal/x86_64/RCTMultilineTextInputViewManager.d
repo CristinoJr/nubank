@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/cristinoene/Desktop/nubank/node_modules/react-native/Libraries/Text/TextInput/Multiline/RCTMultilineTextInputViewManager.m \
+  /Users/cristinoene/Desktop/nubank/ios/Pods/Target\ Support\ Files/React-RCTText/React-RCTText-prefix.pch \
+  /Users/cristinoene/Desktop/nubank/node_modules/react-native/Libraries/Text/TextInput/Multiline/RCTMultilineTextInputViewManager.h \
+  /Users/cristinoene/Desktop/nubank/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputViewManager.h \
+  /Users/cristinoene/Desktop/nubank/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextViewManager.h \
+  /Users/cristinoene/Desktop/nubank/ios/Pods/Headers/Public/React-Core/React/RCTViewManager.h \
+  /Users/cristinoene/Desktop/nubank/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/cristinoene/Desktop/nubank/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/cristinoene/Desktop/nubank/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/cristinoene/Desktop/nubank/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/cristinoene/Desktop/nubank/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/cristinoene/Desktop/nubank/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/cristinoene/Desktop/nubank/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/cristinoene/Desktop/nubank/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/cristinoene/Desktop/nubank/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/cristinoene/Desktop/nubank/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/cristinoene/Desktop/nubank/ios/Pods/Headers/Private/yoga/Yoga.h \
+  /Users/cristinoene/Desktop/nubank/ios/Pods/Headers/Private/yoga/YGEnums.h \
+  /Users/cristinoene/Desktop/nubank/ios/Pods/Headers/Private/yoga/YGMacros.h \
+  /Users/cristinoene/Desktop/nubank/ios/Pods/Headers/Private/yoga/YGValue.h \
+  /Users/cristinoene/Desktop/nubank/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcher.h \
+  /Users/cristinoene/Desktop/nubank/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/cristinoene/Desktop/nubank/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/cristinoene/Desktop/nubank/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/cristinoene/Desktop/nubank/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/cristinoene/Desktop/nubank/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/cristinoene/Desktop/nubank/ios/Pods/Headers/Public/React-Core/React/UIView+React.h \
+  /Users/cristinoene/Desktop/nubank/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h \
+  /Users/cristinoene/Desktop/nubank/node_modules/react-native/Libraries/Text/TextInput/Multiline/RCTMultilineTextInputView.h \
+  /Users/cristinoene/Desktop/nubank/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.h \
+  /Users/cristinoene/Desktop/nubank/ios/Pods/Headers/Public/React-Core/React/RCTView.h \
+  /Users/cristinoene/Desktop/nubank/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegate.h \
+  /Users/cristinoene/Desktop/nubank/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputViewProtocol.h
